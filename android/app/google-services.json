@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71303592001",
+    "project_id": "tanova-app",
+    "storage_bucket": "tanova-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71303592001:android:7d9f2b90645e4c21206ec0",
+        "android_client_info": {
+          "package_name": "com.example.tanova_company"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaeVKuZPgJbk8sOgi0OckuusW3xh35XAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
